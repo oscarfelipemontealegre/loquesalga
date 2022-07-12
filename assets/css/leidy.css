@@ -1,0 +1,7 @@
+.navegador{
+    background: #eb1919;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+}
